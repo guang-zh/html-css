@@ -1,0 +1,30 @@
+html {
+  width: 100%;
+  text-align: left;
+}
+
+body {
+  font-family:  sans-serif;
+  margin: 0;
+  padding: 0.5em;
+  text-align: left; 
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+h1{
+  text-align:center;
+}
+
+audio {
+  min-width: 35em;
+}
+
+video {
+  max-height: 20em;
+  max-width: 35em;
+}
+
+footer {
+  text-align: center;
+}
